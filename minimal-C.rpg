@@ -1,0 +1,6 @@
+123456789012     d small           S             10A    
+123456789012     d big             S             50A    
+123456789012
+123456789012     c  /Free    
+123456789012     c* Compliant - small will fit into big
+123456789012     c       big = small
